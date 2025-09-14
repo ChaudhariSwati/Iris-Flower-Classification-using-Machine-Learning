@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ML Model files
+*.joblib
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Logs and databases
+*.log
+*.sqlite
